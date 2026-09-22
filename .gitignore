@@ -1,4 +1,5 @@
 .venv/
 processed_dataset/
+model/
 __pycache__/
 *.pyc
